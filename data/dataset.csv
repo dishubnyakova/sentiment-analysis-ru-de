@@ -1,0 +1,121 @@
+text,language,label
+Это отличный фильм,ru,positive
+Мне очень понравился этот фильм,ru,positive
+Фильм просто замечательный,ru,positive
+Очень хороший сервис,ru,positive
+Я доволен покупкой,ru,positive
+Это было прекрасно,ru,positive
+Отличное качество товара,ru,positive
+Мне всё понравилось,ru,positive
+Замечательная работа,ru,positive
+Прекрасный результат,ru,positive
+Очень хороший продукт,ru,positive
+Сервис на высоте,ru,positive
+Я в восторге,ru,positive
+Очень приятно пользоваться,ru,positive
+Это лучший выбор,ru,positive
+Работает идеально,ru,positive
+Мне всё очень понравилось,ru,positive
+Отличный опыт,ru,positive
+Я полностью доволен,ru,positive
+Очень качественно сделано,ru,positive
+Это ужасный фильм,ru,negative
+Мне не понравился фильм,ru,negative
+Фильм очень плохой,ru,negative
+Сервис отвратительный,ru,negative
+Я разочарован покупкой,ru,negative
+Это было ужасно,ru,negative
+Плохое качество товара,ru,negative
+Мне совсем не понравилось,ru,negative
+Очень плохая работа,ru,negative
+Отвратительный результат,ru,negative
+Очень плохой продукт,ru,negative
+Сервис на низком уровне,ru,negative
+Я недоволен,ru,negative
+Пользоваться неприятно,ru,negative
+Это худший выбор,ru,negative
+Работает плохо,ru,negative
+Очень разочарован,ru,negative
+Плохой опыт,ru,negative
+Я полностью недоволен,ru,negative
+Сделано очень плохо,ru,negative
+Это обычный фильм,ru,neutral
+Фильм нормальный,ru,neutral
+Ничего особенного,ru,neutral
+Сервис средний,ru,neutral
+Покупка обычная,ru,neutral
+Это было нормально,ru,neutral
+Качество товара среднее,ru,neutral
+Мне было нормально,ru,neutral
+Работа обычная,ru,neutral
+Результат нормальный,ru,neutral
+Продукт средний,ru,neutral
+Сервис стандартный,ru,neutral
+Я отношусь нейтрально,ru,neutral
+Пользоваться можно,ru,neutral
+Обычный выбор,ru,neutral
+Работает нормально,ru,neutral
+Всё стандартно,ru,neutral
+Средний опыт,ru,neutral
+Ничего особенного нет,ru,neutral
+Сделано нормально,ru,neutral
+Das ist ein großartiger Film,de,positive
+Der Film war sehr gut,de,positive
+Ich mochte den Film sehr,de,positive
+Der Service ist ausgezeichnet,de,positive
+Ich bin zufrieden mit dem Kauf,de,positive
+Das war wunderbar,de,positive
+Sehr gute Qualität,de,positive
+Alles hat mir gefallen,de,positive
+Tolle Arbeit,de,positive
+Ausgezeichnetes Ergebnis,de,positive
+Sehr gutes Produkt,de,positive
+Der Service ist perfekt,de,positive
+Ich bin begeistert,de,positive
+Sehr angenehm zu benutzen,de,positive
+Das ist die beste Wahl,de,positive
+Funktioniert einwandfrei,de,positive
+Ich bin sehr zufrieden,de,positive
+Ein tolles Erlebnis,de,positive
+Ich bin vollkommen zufrieden,de,positive
+Sehr gut gemacht,de,positive
+Das ist ein schlechter Film,de,negative
+Der Film war schlecht,de,negative
+Ich mochte den Film nicht,de,negative
+Der Service ist schlecht,de,negative
+Ich bin enttäuscht,de,negative
+Das war schrecklich,de,negative
+Schlechte Qualität,de,negative
+Es hat mir nicht gefallen,de,negative
+Sehr schlechte Arbeit,de,negative
+Schlechtes Ergebnis,de,negative
+Sehr schlechtes Produkt,de,negative
+Der Service ist schlecht,de,negative
+Ich bin unzufrieden,de,negative
+Unangenehm zu benutzen,de,negative
+Das ist die schlechteste Wahl,de,negative
+Funktioniert schlecht,de,negative
+Sehr enttäuscht,de,negative
+Schlechtes Erlebnis,de,negative
+Ich bin nicht zufrieden,de,negative
+Sehr schlecht gemacht,de,negative
+Das ist ein normaler Film,de,neutral
+Der Film ist okay,de,neutral
+Nichts Besonderes,de,neutral
+Der Service ist durchschnittlich,de,neutral
+Der Kauf war normal,de,neutral
+Das war okay,de,neutral
+Die Qualität ist durchschnittlich,de,neutral
+Es war in Ordnung,de,neutral
+Die Arbeit ist normal,de,neutral
+Das Ergebnis ist okay,de,neutral
+Das Produkt ist durchschnittlich,de,neutral
+Der Service ist normal,de,neutral
+Ich bin neutral,de,neutral
+Man kann es benutzen,de,neutral
+Eine normale Wahl,de,neutral
+Funktioniert normal,de,neutral
+Alles ist standard,de,neutral
+Durchschnittliche Erfahrung,de,neutral
+Nichts Besonderes dabei,de,neutral
+Normal gemacht,de,neutral
