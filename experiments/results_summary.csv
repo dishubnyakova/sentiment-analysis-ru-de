@@ -1,0 +1,5 @@
+﻿Модель,Accuracy,Precision,Recall,F1-score
+TF-IDF + Logistic Regression,0.4444,0.4028,0.4444,0.4159
+XLM-RoBERTa (3 epochs),0.3333,0.1111,0.3333,0.1667
+XLM-RoBERTa (6 epochs),0.3333,0.1111,0.3333,0.1667
+"XLM-RoBERTa (tuned: train+val, lr=1e-5, bs=4, 4 epochs)",0.3889,0.5778,0.3889,0.3646

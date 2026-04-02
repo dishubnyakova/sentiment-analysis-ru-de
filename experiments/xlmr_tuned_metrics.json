@@ -1,0 +1,7 @@
+{
+    "model": "XLM-RoBERTa (tuned: train+val, lr=1e-5, bs=4, 4 epochs)",
+    "accuracy": 0.3889,
+    "precision_weighted": 0.5778,
+    "recall_weighted": 0.3889,
+    "f1_weighted": 0.3646
+}

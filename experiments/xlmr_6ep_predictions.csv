@@ -1,0 +1,19 @@
+text,language,label,label_id,predicted_label
+Das ist ein großartiger Film,de,positive,2,neutral
+Der Kauf war normal,de,neutral,1,neutral
+Sehr schlechte Arbeit,de,negative,0,neutral
+Der Service ist schlecht,de,negative,0,neutral
+Der Service ist ausgezeichnet,de,positive,2,neutral
+Пользоваться можно,ru,neutral,1,neutral
+Отличный опыт,ru,positive,2,neutral
+Работает идеально,ru,positive,2,neutral
+Das ist ein schlechter Film,de,negative,0,neutral
+Мне совсем не понравилось,ru,negative,0,neutral
+Normal gemacht,de,neutral,1,neutral
+Мне всё понравилось,ru,positive,2,neutral
+Das ist ein normaler Film,de,neutral,1,neutral
+Alles hat mir gefallen,de,positive,2,neutral
+Работа обычная,ru,neutral,1,neutral
+Ich bin unzufrieden,de,negative,0,neutral
+Сервис отвратительный,ru,negative,0,neutral
+Средний опыт,ru,neutral,1,neutral

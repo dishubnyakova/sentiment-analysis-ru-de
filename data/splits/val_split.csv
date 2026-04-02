@@ -1,0 +1,19 @@
+text,language,label,label_id
+Это лучший выбор,ru,positive,2
+Фильм нормальный,ru,neutral,1
+Это худший выбор,ru,negative,0
+Nichts Besonderes dabei,de,neutral,1
+Ich bin zufrieden mit dem Kauf,de,positive,2
+Ich bin nicht zufrieden,de,negative,0
+Das war okay,de,neutral,1
+Funktioniert schlecht,de,negative,0
+Ausgezeichnetes Ergebnis,de,positive,2
+Очень приятно пользоваться,ru,positive,2
+Das war wunderbar,de,positive,2
+Очень плохой продукт,ru,negative,0
+Я полностью недоволен,ru,negative,0
+Es war in Ordnung,de,neutral,1
+Ich mochte den Film nicht,de,negative,0
+Сервис средний,ru,neutral,1
+Сделано нормально,ru,neutral,1
+Ich mochte den Film sehr,de,positive,2

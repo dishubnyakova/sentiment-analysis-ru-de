@@ -1,0 +1,85 @@
+text,language,label,label_id
+Замечательная работа,ru,positive,2
+Я отношусь нейтрально,ru,neutral,1
+Отличное качество товара,ru,positive,2
+Der Service ist durchschnittlich,de,neutral,1
+Очень плохая работа,ru,negative,0
+Это было ужасно,ru,negative,0
+Это отличный фильм,ru,positive,2
+Фильм очень плохой,ru,negative,0
+Сервис стандартный,ru,neutral,1
+Ich bin enttäuscht,de,negative,0
+Я полностью доволен,ru,positive,2
+Результат нормальный,ru,neutral,1
+Ничего особенного нет,ru,neutral,1
+Всё стандартно,ru,neutral,1
+Мне было нормально,ru,neutral,1
+Очень хороший продукт,ru,positive,2
+Funktioniert einwandfrei,de,positive,2
+Die Qualität ist durchschnittlich,de,neutral,1
+Плохой опыт,ru,negative,0
+Прекрасный результат,ru,positive,2
+Tolle Arbeit,de,positive,2
+Я доволен покупкой,ru,positive,2
+Ein tolles Erlebnis,de,positive,2
+Schlechtes Ergebnis,de,negative,0
+Отвратительный результат,ru,negative,0
+Плохое качество товара,ru,negative,0
+Это ужасный фильм,ru,negative,0
+Sehr gutes Produkt,de,positive,2
+Ich bin vollkommen zufrieden,de,positive,2
+Очень качественно сделано,ru,positive,2
+Обычный выбор,ru,neutral,1
+Es hat mir nicht gefallen,de,negative,0
+Funktioniert normal,de,neutral,1
+Ich bin sehr zufrieden,de,positive,2
+Качество товара среднее,ru,neutral,1
+Фильм просто замечательный,ru,positive,2
+Сервис на высоте,ru,positive,2
+Ich bin neutral,de,neutral,1
+Der Film war schlecht,de,negative,0
+Sehr gute Qualität,de,positive,2
+Das war schrecklich,de,negative,0
+Мне очень понравился этот фильм,ru,positive,2
+Unangenehm zu benutzen,de,negative,0
+Der Service ist perfekt,de,positive,2
+Eine normale Wahl,de,neutral,1
+Я недоволен,ru,negative,0
+Это было прекрасно,ru,positive,2
+Das ist die beste Wahl,de,positive,2
+Очень разочарован,ru,negative,0
+Sehr enttäuscht,de,negative,0
+Сервис на низком уровне,ru,negative,0
+Ich bin begeistert,de,positive,2
+Schlechtes Erlebnis,de,negative,0
+Покупка обычная,ru,neutral,1
+Пользоваться неприятно,ru,negative,0
+Man kann es benutzen,de,neutral,1
+Nichts Besonderes,de,neutral,1
+Der Film ist okay,de,neutral,1
+Sehr angenehm zu benutzen,de,positive,2
+Das Ergebnis ist okay,de,neutral,1
+Der Service ist normal,de,neutral,1
+Я в восторге,ru,positive,2
+Sehr gut gemacht,de,positive,2
+Это обычный фильм,ru,neutral,1
+Schlechte Qualität,de,negative,0
+Die Arbeit ist normal,de,neutral,1
+Мне всё очень понравилось,ru,positive,2
+Ничего особенного,ru,neutral,1
+Это было нормально,ru,neutral,1
+Das ist die schlechteste Wahl,de,negative,0
+Sehr schlecht gemacht,de,negative,0
+Sehr schlechtes Produkt,de,negative,0
+Der Service ist schlecht,de,negative,0
+Я разочарован покупкой,ru,negative,0
+Сделано очень плохо,ru,negative,0
+Работает плохо,ru,negative,0
+Durchschnittliche Erfahrung,de,neutral,1
+Der Film war sehr gut,de,positive,2
+Продукт средний,ru,neutral,1
+Das Produkt ist durchschnittlich,de,neutral,1
+Работает нормально,ru,neutral,1
+Очень хороший сервис,ru,positive,2
+Мне не понравился фильм,ru,negative,0
+Alles ist standard,de,neutral,1

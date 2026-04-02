@@ -1,0 +1,11 @@
+﻿text,language,label,label_id,predicted_label,is_correct,example_type
+Der Kauf war normal,de,neutral,1,neutral,True,correct
+Der Service ist schlecht,de,negative,0,negative,True,correct
+Normal gemacht,de,neutral,1,neutral,True,correct
+Мне всё понравилось,ru,positive,2,positive,True,correct
+Das ist ein normaler Film,de,neutral,1,neutral,True,correct
+Das ist ein großartiger Film,de,positive,2,neutral,False,incorrect
+Sehr schlechte Arbeit,de,negative,0,positive,False,incorrect
+Der Service ist ausgezeichnet,de,positive,2,neutral,False,incorrect
+Пользоваться можно,ru,neutral,1,negative,False,incorrect
+Отличный опыт,ru,positive,2,negative,False,incorrect
